@@ -775,7 +775,7 @@ body {
 
 .video-section .section-number {
     position: absolute;
-    top: 0;
+    top: -50px;
     left: 0;
     font-size: 300px;
     font-weight: 800;
@@ -866,7 +866,7 @@ body {
 
 .blog-section .section-number {
     position: absolute;
-    top: 0;
+    top: -50px;
     left: 0;
     font-size: 300px;
     font-weight: 800;
@@ -1405,6 +1405,7 @@ body {
         transform: translateX(-50%);
     }
 }
+
 
 
 
