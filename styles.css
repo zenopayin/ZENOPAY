@@ -208,7 +208,7 @@ body {
 
 .section-number {
     position: absolute;
-    top: -10;
+    top: 0;
     left: 0;
     font-size: 300px;
     font-weight: 800;
@@ -219,6 +219,7 @@ body {
     letter-spacing: -0.02em;
     pointer-events: none;
     font-family: 'Inter', sans-serif;
+    margin-top: -20px;
     
 }
 
@@ -1405,4 +1406,5 @@ body {
         transform: translateX(-50%);
     }
 }
+
 
