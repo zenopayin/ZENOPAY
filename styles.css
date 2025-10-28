@@ -208,7 +208,7 @@ body {
 
 .section-number {
     position: absolute;
-    top: -10px;
+    top: -50px;
     left: 0;
     font-size: 300px;
     font-weight: 800;
@@ -1405,6 +1405,7 @@ body {
         transform: translateX(-50%);
     }
 }
+
 
 
 
