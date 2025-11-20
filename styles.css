@@ -208,7 +208,7 @@ body {
 
 .section-number {
     position: absolute;
-    top: -50px;
+    top: -280px;
     left: 0;
     font-size: 300px;
     font-weight: 800;
@@ -335,7 +335,7 @@ body {
 
 .section-header .section-number {
     position: absolute;
-    top: -180px;
+    top: -280px;
     left: 50%;
     transform: translateX(-50%);
     font-size: 300px;
@@ -452,7 +452,7 @@ body {
 
 .services-content .section-number {
     position: absolute;
-    top: -180px;
+    top: -280px;
     left: 0;
     font-size: 300px;
     font-weight: 800;
@@ -775,7 +775,7 @@ body {
 
 .video-section .section-number {
     position: absolute;
-    top: -50px;
+    top: -280px;
     left: 0;
     font-size: 300px;
     font-weight: 800;
@@ -803,7 +803,7 @@ body {
 
 .video-content .section-number {
     position: absolute;
-    top: -180px;
+    top: -280px;
     left: 0;
     font-size: 300px;
     font-weight: 800;
@@ -866,7 +866,7 @@ body {
 
 .blog-section .section-number {
     position: absolute;
-    top: -50px;
+    top: -280px;
     left: 0;
     font-size: 300px;
     font-weight: 800;
